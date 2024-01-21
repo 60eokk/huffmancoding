@@ -1,0 +1,14 @@
+---
+:id: 177017764
+:submitters:
+- :name: Sarthak Patipati
+  :email: spati20@uic.edu
+- :name: Jiwon Jung
+  :email: jjung65@uic.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-04-25 01:11:14.626336000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-04-24 18:11:14.626336000 Z
+:status: processed
+:score: 80.0
